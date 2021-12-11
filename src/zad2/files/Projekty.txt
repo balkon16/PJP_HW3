@@ -1,0 +1,2 @@
+Word\tword2    word3
+dog    chupacabra    animal
