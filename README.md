@@ -11,3 +11,8 @@ an input stored in a tab-separated file in the `files` directory. The programme 
 `output`) directory:
 * `ProjektyDuze.txt` (Polish for *large projects*) which contains only projects with three or more programmers,
 * `Programisci.txt` (Polish for *programmers*) which contains programmers and projects they are working on.
+
+# Exercise no. 3
+
+Solution for the exercise no. 3 is located in the `src/zad3` package. The aim of the exercise is to write a programme which
+can recursively traverse a given location and print the full path of each HTML file.
