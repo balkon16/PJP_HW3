@@ -1,5 +1,6 @@
-Data warehouse initiative   Kowalski Bartosz    Brzęczyszczykiewicz Grzegorz
-Frontend maintenance    Kowalski Bartosz    Kowalska Anna   Nowak Adam  Laptop Katarzyna
-Obsługa klienta Komputer Andrzej    Laptop Katarzyna    Listwa Grzegorz
-Accounting  Lonca Paweł
-Business solutions for CEE  Kowalska Anna   Listwa Grzegorz
+Data warehouse initiative	Kowalski Bartosz	Brzęczyszczykiewicz Grzegorz
+Frontend maintenance	Kowalski Bartosz	Kowalska Anna	Nowak Adam	Laptop Katarzyna
+Obsługa klienta	Komputer Andrzej	Laptop Katarzyna	Listwa Grzegorz
+Accounting	Lonca Paweł
+Divested project
+Business solutions for CEE	Kowalska Anna	Listwa Grzegorz

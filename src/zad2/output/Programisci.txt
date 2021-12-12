@@ -1,0 +1,8 @@
+Kowalski Bartosz	Data warehouse initiative	Frontend maintenance
+Brzęczyszczykiewicz Grzegorz	Data warehouse initiative
+Kowalska Anna	Frontend maintenance	Business solutions for CEE
+Nowak Adam	Frontend maintenance
+Laptop Katarzyna	Obsługa klienta	Frontend maintenance
+Komputer Andrzej	Obsługa klienta
+Listwa Grzegorz	Obsługa klienta	Business solutions for CEE
+Lonca Paweł	Obsługa klienta	Accounting

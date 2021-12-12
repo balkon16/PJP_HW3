@@ -1,2 +1,6 @@
-Word\tword2    word3
-dog    chupacabra    animal
+Data warehouse initiative	Kowalski Bartosz	Brzęczyszczykiewicz Grzegorz
+Frontend maintenance	Kowalski Bartosz	Kowalska Anna	Nowak Adam	Laptop Katarzyna
+Obsługa klienta	Komputer Andrzej	Laptop Katarzyna	Listwa Grzegorz	Lonca Paweł
+Accounting	Lonca Paweł
+Divested project
+Business solutions for CEE	Kowalska Anna	Listwa Grzegorz
