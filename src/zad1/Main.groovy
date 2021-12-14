@@ -41,9 +41,8 @@ static isCorrectDate(dateStr) {
     return true
 }
 
-def x = extractDatesFromTextFile("./files", "input_text.txt")
-print(x)
-//extractDatesFromTextFile("./files", "input_text.txt").each {
-//    def ans = (isCorrectDate(it)) ? "$it is a correct data" : "$it is an incorrect date"
-//    println(ans)
-//}
+
+extractDatesFromTextFile("./files", "input_text.txt").each {
+    def ans = (isCorrectDate(it)) ? "$it is a correct data." : "$it is an incorrect date."
+    println(ans)
+}
