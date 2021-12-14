@@ -7,8 +7,6 @@
 package zad2;
 
 static getProjectsAndProgrammersFromFileCase(path, file = "Projekty.txt") {
-//    def scriptDir = getClass().protectionDomain.codeSource.location.path
-//    print(scriptDir)
 
     def programmersByProject = [:]
     def projectsByProgrammer = [:]
